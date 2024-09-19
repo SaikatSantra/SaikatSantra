@@ -55,12 +55,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a Software Engineer at Microsoft
-- 🏫 2022 B.Tech. graduate from NIT Karnataka
-- 💻 Former SDE Intern at Qualcomm, India
-- 🙋‍ More about me: Visit my [website](https://Saikat.github.io/)
-- 📹 Subscribe on YouTube [Saikat](http://yt.openinapp.co/Saikat)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/Saikat)
+- 🏢 Shopify Expert 
+- 🏫 MCA from Dr. B. C. Roy Engineering College (MAKAUT)
+<!-- - 💻 Former SDE Intern at Qualcomm, India -->
+- 🙋‍ More about me: Visit my [website](https://saikat.github.io/)
+<!-- - 📹 Subscribe on YouTube [Saikat](http://yt.openinapp.co/Saikat) -->
+- 🖇 Follow me on [LinkedIn](www.linkedin.com/in/saikatsantra)
 - 👯 Pronouns: He/Him
 
 
