@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=2000&width=435&height=40&lines=Shopify++development%2C+customization;Integrating+Third-party+Apps;Strong+Problem-solver;Thriving+in+fast-paced+environments;Creating+Responsive+)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
 
@@ -56,7 +58,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
+
 
 - 🏢 Shopify Expert 
 - 🏫 MCA from Dr. B. C. Roy Engineering College (MAKAUT)
