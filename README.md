@@ -8,8 +8,11 @@
   <img align="centre" alt="YouTube Saikat" width="66px" src="https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=000E13&width=435&lines=Expert+in+Shopify+with+extensive+experience+in+theme+development%2C+customization%2C+and+app+integration.+Skilled+in+creating+responsive%2C+high-performing+eCommerce+stores+tailored+to+business+needs.+Proficient+in+integrating+third-party+apps%2C+optimizing+user+experience%2C+and+enhancing+functionality.+Strong+problem-solver%2C+thriving+in+fast-paced+environments%2C+and+effective+collaborator.+Focused+on+delivering+top-quality+solutions+to+help+brands+scale+and+achieve+their+goals.)](https://git.io/typing-svg)
+
 <!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
+
 <a href="https://SaikatSantra.com">
   <kbd>
   <img align="centre" alt="SaikatSantra.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
