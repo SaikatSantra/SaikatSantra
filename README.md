@@ -57,9 +57,7 @@
 
 - 🏢 Shopify Expert 
 - 🏫 MCA from Dr. B. C. Roy Engineering College (MAKAUT)
-<!-- - 💻 Former SDE Intern at Qualcomm, India -->
 - 🙋‍ More about me: Visit my [website](https://saikat.github.io/)
-<!-- - 📹 Subscribe on YouTube [Saikat](http://yt.openinapp.co/Saikat) -->
 - 🖇 Follow me on [LinkedIn](www.linkedin.com/in/saikatsantra)
 - 👯 Pronouns: He/Him
 
@@ -69,7 +67,7 @@
 **SaikatSantra/SaikatSantra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📹 Subscribe on YouTube [Saikat](http://yt.openinapp.co/Saikat)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -78,4 +76,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💻 Former SDE Intern at Qualcomm, India
 -->
