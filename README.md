@@ -9,47 +9,49 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
-
+<!--
 <a href="https://SaikatSantra.com">
   <kbd>
   <img align="centre" alt="SaikatSantra.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
 </a>
- 
+ --> 
+ <!--
  <a href="https://linktr.ee/Saikat">
   <kbd>
   <img align="centre" alt="Saikat's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
 </a>
-   
-<a href="https://linkedin.com/in/Saikat">
+  -->
+<a href="www.linkedin.com/in/saikatsantra">
   <kbd>
   <img align="centre" alt="Saikat's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
   
- <a href="https://www.instagram.com/Saikat.Santra/">
+ <a href="https://www.linkedin.com/in/saikatsantra">
   <kbd>
   <img align="centre" alt="Saikat's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-
+<!--
 <a href="https://www.instagram.com/SaikatSantra/">
   <kbd>
   <img align="centre" alt="Saikat's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
-  
+ --> 
+ <!--
 <a href="https://twitter.com/SaikatSantra">
 <kbd>
 <img align="centre" alt="Saikat's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
 </a>
- 
+ --><!--
 <a href="https://t.me/SaikatSantra">
   <kbd>
   <img align="centre" alt="Saikat's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
 </a>
- 
+ --><!--
 <a href="https://devfolio.co/@Saikat_Santra">
   <kbd>
   <img align="centre" alt="Saikat's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
-
+-->
 <br/>
 <br/>
 
