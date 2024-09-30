@@ -69,8 +69,8 @@
 
 
 ** Repo lists
-- <a href="https://github.com/stars/SaikatSantra/lists/shopify-projects /> Shopify Projects</a>
-- <a href="https://github.com/stars/SaikatSantra/lists/node-react /> Node , React</a>
+- <a href="https://github.com/stars/SaikatSantra/lists/shopify-projects"> Shopify Projects</a>
+- <a href="https://github.com/stars/SaikatSantra/lists/node-react"> Node , React</a>
   
 <!--
 **SaikatSantra/SaikatSantra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
