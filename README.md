@@ -63,7 +63,7 @@
 - 🏢 Shopify Expert 
 - 🏫 MCA from Dr. B. C. Roy Engineering College (MAKAUT)
 - 🙋‍ More about me: Visit my [website](https://saikatsantra.github.io/)
-- 🖇 Follow me on [LinkedIn](www.linkedin.com/in/saikatsantra)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/saikatsantra)
 - 👯 Pronouns: He/Him
 
 
