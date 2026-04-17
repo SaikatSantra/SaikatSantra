@@ -16,10 +16,7 @@ Glad to see you here :heart:
   <img align="centre" alt="Saikat's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
   
- <a href="https://www.linkedin.com/in/saikatsantra">
-  <kbd>
-  <img align="centre" alt="Saikat's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
+
 
 - 🏢 Shopify Expert 
 - 🏫 MCA from Dr. B. C. Roy Engineering College (MAKAUT)
