@@ -1,6 +1,7 @@
 ### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Saikat+Santra)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=This+is+Saikat+Santra&width=260&height=25" />
 ###### Glad to see you here :heart:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SaikatSantra&label=Views&color=blue&style=plastic" alt="Saikat" /> </p>
 
@@ -72,6 +73,7 @@
 - <a href="https://github.com/stars/SaikatSantra/lists/shopify-projects"> Shopify Projects</a>
 - <a href="https://github.com/stars/SaikatSantra/lists/node-react"> Node , React</a>
 - <a href="https://github.com/stars/SaikatSantra/lists/app-shopify"> Shopify App</a>
+- <a href="https://github.com/stars/SaikatSantra/lists/mobile-app-flutter"> Mobile App || Flutter </a>
   
 <!--
 **SaikatSantra/SaikatSantra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
