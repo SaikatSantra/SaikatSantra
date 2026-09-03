@@ -54,8 +54,8 @@
   ### 📈 GitHub Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SaikatSantra&show_icons=true&theme=dark&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="Saikat's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatSantra&layout=compact&theme=dark&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikatSantra&theme=dark&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" alt="Saikat's GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats-git-masterrst-anuraghazru1.vercel.app/api/top-langs/?username=SaikatSantra&layout=compact&theme=dark&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
   </p>
 
   <br />
