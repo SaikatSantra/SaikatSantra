@@ -23,7 +23,7 @@
 
 - 🤖 **Agentic AI & Automation:** Designing autonomous AI agents, tool-calling workflows, and LLM-driven automation for enterprise and e-commerce systems.
 - 🛍️ **E-Commerce Specialist:** Over 8+ years of experience delivering 500+ custom Shopify stores, private apps, and specialized liquid architecture.
-- 💻 **Tech Stack Focus:** JavaScript/TypeScript, React, Node.js, Electron, Python, Agentic Frameworks, and Shopify CLI.
+- 💻 **Tech Stack Focus:** JavaScript/TypeScript, React, Node.js, Agentic Frameworks, and Shopify CLI.
 - 🎓 **Education:** Master of Computer Applications (MCA) from Dr. B. C. Roy Engineering College (MAKAUT).
 
 ---
